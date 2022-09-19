@@ -76,7 +76,10 @@ if st.button('Predict'):
     
     if(preds==[1]):
         st.success('Congratulations!')
+        st.write("Prediction: {}".format(preds))
         st.write('This Customer Will Buy the Subscription.')
     else:
+        # st.failure('Oops!')
+        st.write("Prediction: {}".format(preds))
         st.write('This Customer Will Not Buy the Subscription.')
     
