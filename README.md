@@ -25,8 +25,11 @@ As ML Engineer, we always retrain the deployed model after some period of time t
 <li>Splitting Data Into Training and Test Set</li>
 <li>Visulazing Dataset and Determining Training Loss</li>
 </ol>
-<img src="projectOverview/demo.png" width="700" height="400">
-<video width="320" height="240" controls src="./files/smsSpamDetector.mp4">
+<h2>Project Demo</h2>
+<img src="files/demo1.png" width="700" height="400">
+<img src="files/demo2.png" width="700" height="400">
+
+<video width="320" height="240" controls src="./files/CustomerSubscriptionPrediction.mp4">
   <source src="projectOverview/demo.mp4" type="video/mp4">
 Video: 
 </video>
